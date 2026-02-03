@@ -11,3 +11,7 @@ Generate an 8-channel reversible photonic interface instantly — SVG layout pre
 ```bash
 python rpc_gds_export.py
 
+License
+
+This repository is licensed under the MIT License. Generated artifacts (SVG, GDS, plots) are also freely shareable; attribution appreciated.
+
