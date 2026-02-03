@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated artifacts
+generated/
+*.svg
+*.gds
+*.json
+
+# VS Code / Devcontainer
+.vscode/
+.devcontainer/
